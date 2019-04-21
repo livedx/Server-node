@@ -1,0 +1,312 @@
+MIME-Version: 1.0
+Date: Tue, 05 Mar 2019 00:50:22 +0500
+From: wsManagerEngine
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="--=459E981903AF84C520B095F9F6C77D8A"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+X-SqlManager-Content-Expire: 
+
+This is a multi-part message in MIME format.
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html;
+	charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SQL Manager</title><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta name="keywords" content=""><meta name="description" content=""><meta name="copyright" content="EMS Database Management Solutions, Inc."><meta name="author" content="EMS Database Management Solutions, Inc."><meta name="generator" content="wsManager v4.5"><meta name="revisit-after" content="7 days"><meta name="robots" content="index,follow"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link href="https://www.sqlmanager.net/products/postgresql/manager/direct/full" rel="alternate" type=""><link href="https://www.sqlmanager.net/ru/products/postgresql/manager/direct/full" rel="alternate" type=""><link href="https://www.sqlmanager.net/en/products/postgresql/manager/direct/full" rel="alternate" type=""><link href="https://www.sqlmanager.net/de/products/postgresql/manager/direct/full" rel="alternate" type=""><link href="https://www.sqlmanager.net/fr/products/postgresql/manager/direct/full" rel="alternate" type=""><script language="javascript" type="text/javascript" src="/j/default.js"></script></head><body class="light"><link rel="stylesheet" type="text/css" href="/css/direct.css"><script>
+		function ToggleDiv( id, img_id )
+		{
+			if( document.getElementById( id ).style.display == '' )
+			{
+				document.getElementById( id ).style.display = 'none';
+				document.getElementById( img_id + '_minus' ).style.display = 'none';
+				document.getElementById( img_id + '_plus' ).style.display = '';
+			}
+			else
+			{
+				document.getElementById( id ).style.display = '';
+				document.getElementById( img_id + '_plus' ).style.display = 'none';
+				document.getElementById( img_id + '_minus' ).style.display = '';
+			}
+		}
+	</script><div class="block" id="news"><a href="#" onclick="ToggleDiv( 'news_block', 'news_img' ); return false;" class="right"><img id="news_img_minus" src="/i/direct/minus.png" alt="More"><img id="news_img_plus" src="/i/direct/plus.png" alt="More" style="display: none"></a><h2 class="left"><a href="#" onclick="ToggleDiv( 'news_block', 'news_img' ); return false;">SQL Manager for PostgreSQL News</a></h2><div id="news_block"><ul><li><em class="date">07/31/2018</em><br><h3><a href="http://sqlmanager.net/products/postgresql/manager/news/2312">EMS SQL Manager for PostgreSQL version 5.9.4 released</a></h3><p>Backup and restore for the latest server versions added, OWNER info is now displayed on the DDL tab, fixes in the debugger, improvements in database comparing and much more...</p></li><li><em class="date">05/30/2018</em><br><h3><a href="http://sqlmanager.net/products/postgresql/manager/news/2299">EMS SQL Manager for PostgreSQL version 5.9.3 released</a></h3><p>GENERATED AS IDENTITY added to the field editor, fixes for copying and importing data, some errors fixed in the debugger and much more...</p></li><li><em class="date">12/11/2017</em><br><h3><a href="http://sqlmanager.net/products/postgresql/manager/news/2281">EMS SQL Manager for PostgreSQL version 5.9.2 released</a></h3><p>Added support for PostgreSQL 10, use of pldbgapi extension for debugging, fixes in Compare databases wizard and much more...
+</p></li><li><em class="date">04/26/2017</em><br><h3><a href="http://sqlmanager.net/products/postgresql/manager/news/2226">EMS SQL Manager for PostgreSQL version 5.9.1 released</a></h3><p>Improvements in the debugger and policy editor and more fixes.</p></li><li><em class="date">03/13/2017</em><br><h3><a href="http://sqlmanager.net/products/postgresql/manager/news/2215">EMS SQL Manager for PostgreSQL version 5.9 released</a></h3><p>Support for SSL certificates, constraint triggers, search path in the debugger, more improvements and fixes...</p></li></ul></div></div><div class="block" id="inform"><a href="#" onclick="ToggleDiv( 'general_block', 'general_img' ); return false;" class="right"><img id="general_img_minus" src="/i/direct/minus.png" alt="More" style="display: none"><img id="general_img_plus" src="/i/direct/plus.png" alt="More"></a><h2 class="left"><a href="#" onclick="ToggleDiv( 'general_block', 'general_img' ); return false;">General Information</a></h2><div id="general_block" style="display: none;"><ul><li><a href="http://www.sqlmanager.net">EMS Software Development Web Site</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager">Overview</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/news">Product News</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/features">Product Features</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/matrix">Features Matrix</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/screenshots">Product Screenshots</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/system">System Requirements</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/license">License Agreement</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/testimonials">Testimonials</a></li><li><a href="http://www.sqlmanager.net/en/products/postgresql/manager/related">Related Products</a></li></ul></div></div><div class="block" id="downloads"><a href="#" onclick="ToggleDiv( 'downloads_block', 'downloads_img' ); return false;" class="right"><img id="downloads_img_minus" src="/i/direct/minus.png" alt="More" style="display: none"><img id="downloads_img_plus" src="/i/direct/plus.png" alt="More"></a><h2 class="left"><a href="#" onclick="ToggleDiv( 'downloads_block', 'downloads_img' ); return false;">Downloads</a></h2><div id="downloads_block" style="display: none"><ul><li><a href="http://sqlmanager.net/software/pgmanager/pgmanager.zip">EMS SQL Manager for PostgreSQL (full installation package)</a></li><li><a href="http://sqlmanager.net/software/pgmanager/pgmanager_lite.zip">EMS SQL Manager for PostgreSQL Freeware(full installation package)</a></li><li><a href="http://sqlmanager.net/software/pgmanager/doc/pgmanager.pdf">User's Manual (en, pdf)</a></li><li><a href="http://sqlmanager.net/software/pgmanager/doc/pgmanager.chm">User's Manual (en, chm)</a></li><li><a href="http://sqlmanager.net/software/pgmanager/doc/pgmanager_russian.pdf">User's Manual (ru, pdf)</a></li><li><a href="http://sqlmanager.net/software/pgmanager/doc/pgmanager_russian.chm">User's Manual (ru, chm)</a></li><li><a href="http://sqlmanager.net/software/datasheets/postgresql/manager/ru/pgmanager.pdf">Data Sheet (ru, pdf)</a></li><li><a href="http://sqlmanager.net/software/datasheets/postgresql/manager/en/pgmanager.pdf">Data Sheet (en, pdf)</a></li><li><a href="http://sqlmanager.net/software/datasheets/postgresql/manager/de/pgmanager.pdf">Data Sheet (de, pdf)</a></li><li><a href="http://sqlmanager.net/software/datasheets/postgresql/manager/fr/pgmanager.pdf">Data Sheet (fr, pdf)</a></li><li><a href="http://sqlmanager.net/software/lng/pgmanager/german.lng">German</a></li><li><a href="http://sqlmanager.net/software/lng/pgmanager/russian.lng">Russian</a></li><li><a href="http://sqlmanager.net/software/lng/pgmanager/french.lng">French</a></li></ul></div></div><div class="block" id="related"><a href="#" onclick="ToggleDiv( 'related_block', 'related_img' ); return false;" class="right"><img id="related_img_minus" src="/i/direct/minus.png" alt="More" style="display: none"><img id="related_img_plus" src="/i/direct/plus.png" alt="More"></a><h2 class="left"><a href="#" onclick="ToggleDiv( 'related_block', 'related_img' ); return false;">Related Products</a></h2><div id="related_block" style="display: none"><ul><li><h3><a href="http://sqlmanager.net/products/mssql/manager">SQL Manager for SQL Server</a></h3><p>Simplify and automate your Microsoft SQL Server database development process, <em>design, explore and maintain existing MS SQL Server databases</em>, build compound SQL Server query statements, manage SQL Server database user rights and manipulate data in different ways.</p></li><li><h3><a href="http://sqlmanager.net/products/mysql/manager">SQL Manager for MySQL</a></h3><p>Simplify and automate your <em>MySQL database development process</em>, design, explore and maintain existing MySQL databases, build compound MySQL query statements, manage MySQL database user rights and manipulate data in different ways.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/dataexport">Data Export for PostgreSQL</a></h3><p>Export PostgreSQL database data to any of 20 most popular data formats, including MS Access, MS Excel, MS Word, PDF, HTML, ODF and more.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/dataimport">Data Import for PostgreSQL</a></h3><p>Import data to PostgreSQL database tables from MS Access, MS Excel, CSV, XML and other popular formats via user-friendly wizard interface.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/datapump">Data Pump for PostgreSQL</a></h3><p>Migrate from most popular databases (MS SQL Server, MySQL, Oracle, DB2, InterBase/Firebird, etс.) to PostgreSQL. Convert database schema and import table data to PostgreSQL database from any ADO-compatible source.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/datagenerator">Data Generator for PostgreSQL</a></h3><p>Generate test data for PostgreSQL database for testing purposes in a simple and direct way. Wide range of data generation parameters, user-friendly wizard interface and useful console utility to automate <em>PostgreSQL test data generation</em>.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/dbcomparer">DB Comparer for PostgreSQL</a></h3><p>Compare and synchronize the structure of PostgreSQL databases. Move changes on your development database to production with ease.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/extract">DB Extract for PostgreSQL</a></h3><p>Create PostgreSQL database backups in the form of SQL scripts, script and save your <em>PostgreSQL database structure and table data as a whole or partially</em>.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/query">SQL Query for PostgreSQL</a></h3><p>Analyze and retrieve your data, build your <em>PostgreSQL queries visually</em>, work with PostgreSQL query plans, build charts based on retrieved data quickly and more.</p></li><li><h3><a href="http://sqlmanager.net/products/ibfb/manager">SQL Manager for InterBase/Firebird</a></h3><p>Simplify and automate your InterBase/Firebird database development process, design, explore and maintain existing InterBase/Firebird databases, build compound <em>InterBase/Firebird SQL query statements</em>, manage InterBase/Firebird database user rights and manipulate data in different ways.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/datacomparer">Data Comparer for PostgreSQL</a></h3><p><em>Compare and synchronize the contents of your PostgreSQL</em> databases. Automate your data migrations from development to production database. Customize the PostgreSQL comparison and synchronization process to suit your needs.</p></li><li><h3><a href="http://sqlmanager.net/products/studio/postgresql">SQL Studio for PostgreSQL</a></h3><p>EMS SQL Management Studio for PostgreSQL is a complete solution for PostgreSQL database administration and development. SQL Studio unites the must-have <em>PostgreSQL tools</em> in one powerful and easy-to-use environment that will make you more productive than ever before!</p></li><li><h3><a href="http://sqlmanager.net/products/oracle/manager">SQL Manager for Oracle</a></h3><p>Simplify and automate your <em>Oracle database development process</em>, design, explore and maintain existing Oracle databases, build compound Oracle SQL query statements, manage Oracle database user rights and manipulate data in different ways.</p></li><li><h3><a href="http://sqlmanager.net/products/db2/manager">SQL Manager for DB2</a></h3><p>Simplify and automate your DB2 database development process, design, explore and maintain existing DB2 databases, build compound <em>DB2 SQL query</em> statements, manage DB2 database user rights and manipulate data in different ways.</p></li><li><h3><a href="http://sqlmanager.net/products/postgresql/sqlbackup">SQL Backup for PostgreSQL</a></h3><p>Back up on multiple PostgreSQL servers in a simple visual interface. Automate scheduled tasks. Upload backups to local and remote folders or cloud storage.</p></li></ul></div></div></body></html>
+
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/plus.png
+Content-Id: 229C99FB96C85610C6072CFA7AF08D0D
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAFJJREFUKJGVUsEKwFAI0vH+u/rydonhYY4lRGFBWTEzGwuc8fxZ35dLjNkOiIiHrCo43nWw4IimG0Fr8aHB4kism+oXDgD2GtZb0pEU9pDcvsYN8fUZnUzxHjoAAAAASUVORK5CYII=
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/minus.png
+Content-Id: 996BE9EE2DF27D297E0A6CEE56AA65D2
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAEFJREFUKJHNkDESACAIw4rnvyEvx8XBTdRFli5tc9QiInVwfaoV/dlO2leC3H1rBnRPAHbPm6QHgopLfbxSAqXAAK6nDqkQjpMnAAAAAElFTkSuQmCC
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/plus.png
+Content-Id: FF6544BBF8C2A0F5A8E3B618FE093AB8
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAFJJREFUKJGVUsEKwFAI0vH+u/rydonhYY4lRGFBWTEzGwuc8fxZ35dLjNkOiIiHrCo43nWw4IimG0Fr8aHB4kism+oXDgD2GtZb0pEU9pDcvsYN8fUZnUzxHjoAAAAASUVORK5CYII=
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/minus.png
+Content-Id: 10D968E3F6E4C23DCE27948B2E2B5CD4
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAEFJREFUKJHNkDESACAIw4rnvyEvx8XBTdRFli5tc9QiInVwfaoV/dlO2leC3H1rBnRPAHbPm6QHgopLfbxSAqXAAK6nDqkQjpMnAAAAAElFTkSuQmCC
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/plus.png
+Content-Id: 9717D4E223E0B87AF0C9C13892A9E398
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAFJJREFUKJGVUsEKwFAI0vH+u/rydonhYY4lRGFBWTEzGwuc8fxZ35dLjNkOiIiHrCo43nWw4IimG0Fr8aHB4kism+oXDgD2GtZb0pEU9pDcvsYN8fUZnUzxHjoAAAAASUVORK5CYII=
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/minus.png
+Content-Id: 67B3ADA146EF5E141AB3FD873F74A7DF
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAEFJREFUKJHNkDESACAIw4rnvyEvx8XBTdRFli5tc9QiInVwfaoV/dlO2leC3H1rBnRPAHbPm6QHgopLfbxSAqXAAK6nDqkQjpMnAAAAAElFTkSuQmCC
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/plus.png
+Content-Id: 09233CBEC7317984F5CC0F19A107D72F
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAFJJREFUKJGVUsEKwFAI0vH+u/rydonhYY4lRGFBWTEzGwuc8fxZ35dLjNkOiIiHrCo43nWw4IimG0Fr8aHB4kism+oXDgD2GtZb0pEU9pDcvsYN8fUZnUzxHjoAAAAASUVORK5CYII=
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/minus.png
+Content-Id: 570F1906ECC8478CE5EB8D441927B6BD
+
+iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAEFJREFUKJHNkDESACAIw4rnvyEvx8XBTdRFli5tc9QiInVwfaoV/dlO2leC3H1rBnRPAHbPm6QHgopLfbxSAqXAAK6nDqkQjpMnAAAAAElFTkSuQmCC
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Location: /css/direct.css
+Content-Id: 0A2B57B3B822CF4AF2B84538E1986E2A
+
+body {
+    padding: 20px 20px 10px 20px;
+    margin: 0;
+    font-family: Arial, Tahoma, Helvetica, serif;
+    font-size: 11px;
+}
+
+h2 {
+    font-size: 140%;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+h3 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+.block {
+    min-height: 50px;
+    padding: 0 0 0 45px;
+}
+
+* html .block {
+    height: 50px;
+}
+
+#news {
+    background: url("/i/direct/news.png") no-repeat;
+}
+
+#inform {
+    background: url("/i/direct/inform.png") no-repeat;
+}
+
+#downloads {
+    background: url("/i/direct/download.png") no-repeat;
+}
+
+#related {
+    background: url("/i/direct/related.png") no-repeat;
+}
+
+ul {
+    border: 1px solid #ddd;
+    padding: 13px 20px 13px 20px;
+    margin: 32px 0 20px 0;
+    list-style: none;
+}
+
+li {
+    background: url(/i/direct/marker.gif) no-repeat 2px -1px;
+    padding: 4px 0 4px 15px;
+}
+
+em.date {
+    font-style: normal;
+    color: #999;
+}
+
+p {
+    padding: 4px 0 0 0;
+    margin: 0;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+img {
+    margin-top: 5px;
+    border: 0;
+}
+
+/* light */
+
+body.light {
+    background: transparent;
+}
+
+body.light ul {
+    background: #fafafa;
+}
+
+body.light a {
+    color: #0066cc;
+}
+
+body.light div.block li p {
+    color: #000000;
+}
+
+/* dark */
+
+body.dark {
+    background: #2D2D30;
+}
+
+body.dark ul {
+    background: #434346;
+}
+
+body.dark a {
+    color: #ffffff;
+}
+
+body.dark div.block li p {
+    color: #bababa;
+}
+
+/* Temp issue with direct file size */
+#to_size {
+    background: url("/i/direct/30-off-red.png") no-repeat;
+}
+
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/30-off-red.png
+Content-Id: 8A70E87CA47F5BBC9B634574B3E868A7
+
+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
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+Content-Disposition: inline
+Content-Location: /i/direct/marker.gif
+Content-Id: 74A9FD368E140A03EEBBB954C7DA1AB0
+
+R0lGODlhBAAQAIABAJmZmQAAACH5BAEAAAEALAAAAAAEABAAAAINjI+py3DgAnSzyhhDAQA7
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/related.png
+Content-Id: 799487B0C57E8D6011FEA7EA2D4BE679
+
+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
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/download.png
+Content-Id: 0C7332DE69DF18B243055ADDC586AE6F
+
+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
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/inform.png
+Content-Id: 5C2EFABA2376AEAB29B4CC91E3A16EF5
+
+iVBORw0KGgoAAAANSUhEUgAAA+gAAAAhCAYAAABKrIEFAAABS2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxMzggNzkuMTU5ODI0LCAyMDE2LzA5LzE0LTAxOjA5OjAxICAgICAgICAiPgogPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+IEmuOgAAAkpJREFUeJzt3T2O2mAUBdDHKIVLsgtKZgnpkbyB2Yv9LSC7yBLoWQKUNFE2kGLK6UgxjIQS/2FwbMbnSEjgH/y1V/fZXkSL0+lUuT2lVL2jm9eI+FaW5eGaawIAAMBntWg7oCmgF0XR66IppYiGkC6gAwAAMDdPN5y76Pj5UXXyer1eRsSuLMv1DWsAAACAT+FL2wFNo+znJrxWlmXx9vb2fG7aXy735XkeEbE8HA67sixrx90BAABgDloDekTELaPsWZbtU0pCOgAAADS4ZcS9k9Vq9RHSv0fFuHue58bdAQAAmL3BA3qe50I6AAAAtOg04n6r8yh7HI/HfUrpOSIipfRScegyInYR8fV/rAsAAACmoldA3263jfs3m80/2y5Det2D4yIiUkrLPmsCAACARzb4iPulLuPuAAAAMEe9GvSqhrxO3avYsizbx/t70qtG3QEAAGBWBh1xb3o9W9s71AEAAGBOBm/QAQAAgHaDNOhVhHoAAACop0EHAACACdCgAwAAwARo0AEAAGACNOgAAAAwARp0AAAAmAANOgAAAEyABh0AAAAmQIMOAAAAE6BBBwAAgAkYrEEX4gEAAKA7DToAAABMwNPYCwAAAAB6Nuj3klL6e9NrRCxHWAoAAACMatSAXhRFRMQi4j2sn38DAADA7Iwa0M9OF98Xo60CAAAARtQpoFeMot8ky7K7/h8AAAA8utaAXhSFVhsAAAAGdvWIe0rpNOa94j9//R7t2gAAADCUXveg33vkPa5/evup/RAAAAB4HH8AwDuj3nmbAG8AAAAASUVORK5CYII=
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+Content-Disposition: inline
+Content-Location: /i/direct/news.png
+Content-Id: B416A90562B221056BB7A51EDECBA6CD
+
+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
+
+----=459E981903AF84C520B095F9F6C77D8A
+Content-Transfer-Encoding: 8bit
+Content-Type: application/x-sqlmanager-update
+
+item2=Downloads
+
+subitem2-1=EMS SQL Manager for PostgreSQL (full installation package)|5.9.4.51539|86.34 Mb|http://download2.sqlmanager.net/download/pgmanager/pgmanager.zip|2
+
+subitem2-2=EMS SQL Manager for PostgreSQL (executable-file only)|5.9.4.51539|75.24 Mb|http://download2.sqlmanager.net/download/pgmanager/pgmanager_exe.zip|2
+
+subitem2-3=EMS SQL Manager for PostgreSQL Freeware(full installation package)|5.9.4.51539|86.16 Mb|http://download2.sqlmanager.net/download/pgmanager/pgmanager_lite.zip|2
+
+subitem2-4=EMS SQL Manager for PostgreSQL Freeware (executable-file only)|5.9.4.51539|75.15 Mb|http://download2.sqlmanager.net/download/pgmanager/pgmanager_lite_exe.zip|2
+
+subitem2-5=EMS SQL Manager for PostgreSQL, Studio edition (executable-file only)|5.9.4.51539|75.20 Mb|http://download2.sqlmanager.net/download/pgstudio/pgmanager_update.zip|2
+
+
+
+----=459E981903AF84C520B095F9F6C77D8A--
